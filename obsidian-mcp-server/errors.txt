@@ -1,5 +1,0 @@
-
-> obsidian-mcp-server@1.0.0 build
-> tsc
-
-src/vault.ts(138,38): error TS2554: Expected 3-5 arguments, but got 2.
